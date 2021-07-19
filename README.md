@@ -15,7 +15,6 @@
 <code><img height="35" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/whatsapp.png"></code>
 <code><img height="35" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/skype.png"></code>
 <code><img height="35" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/slack.png"></code>
-<code><img height="35" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/stack.png"></code>
 <code><img height="35" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/telegram.png"></code>
 <br/>
 

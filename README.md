@@ -2,11 +2,11 @@
 
 <hr/>
 - ☕️ &nbsp I’m coffeer.<br/>
-- 👀 &nbsp I’m interested in <code>react-native</code>(<code><img height="15" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/react.png"></code>) and <code>MERN Stack</code>(
-<code><img height="15" title="MongoDB" src="https://raw.githubusercontent.com/thainquet/thainquet/main/mongodb.png"></code>
-<code><img height="15" title="ExpressJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/express.png"></code>
-<code><img height="15" title="ReactJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/react.png"></code>
-<code><img height="15" title="NodeJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/nodejs.png"></code>)<br/>
+- 👀 &nbsp I’m interested in <code>react-native</code>(<code><img height="15" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/react.png"></code>) and <code>MERN Stack</code>(
+<code><img height="15" title="MongoDB" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/mongodb.png"></code>
+<code><img height="15" title="ExpressJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/express.png"></code>
+<code><img height="15" title="ReactJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/react.png"></code>
+<code><img height="15" title="NodeJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/nodejs.png"></code>)<br/>
 - 📫 &nbsp How to reach me : thainq00@gmail.com<br/>
 
 ### Connect with me:
@@ -20,14 +20,14 @@
 ### Languages:
 
 <code><img height="35" title="Javascript" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"></code>
-<code><img height="35" title="ReactJs/React Native" src="https://raw.githubusercontent.com/thainquet/thainquet/main/react.png"></code>
-<code><img height="35" title="NodeJs" src="https://raw.githubusercontent.com/thainquet/thainquet/main/nodejs.png"></code>
-<code><img height="35" title="NodeJs" src="https://raw.githubusercontent.com/thainquet/thainquet/main/python.png"></code>
+<code><img height="35" title="ReactJs/React Native" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/react.png"></code>
+<code><img height="35" title="NodeJs" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/nodejs.png"></code>
+<code><img height="35" title="NodeJs" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/python.png"></code>
 
 ### IDE
 
 <code><img height="35" title="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
-<code><img height="35" title="Xcode" src="https://raw.githubusercontent.com/thainquet/thainquet/main/xcode.png"></code>
+<code><img height="35" title="Xcode" src="https://raw.githubusercontent.com/thainquet/thainquet/main/ide/xcode.png"></code>
 
 ### Tools
 

@@ -21,7 +21,7 @@
 ### Languages, Frameworks, Libraries:
 
 <code><img height="35" title="Javascript" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"></code>
-<code><img height="35" title="TypeScript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/react.png"></code>
+<code><img height="35" title="TypeScript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/typescript.png"></code>
 <code><img height="35" title="ReactJs/React Native" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/react.png"></code>
 <code><img height="35" title="NodeJs" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/nodejs.png"></code>
 <code><img height="35" title="Python" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/python.png"></code>
@@ -45,12 +45,14 @@
 
 <code><img height="35" title="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
 <code><img height="35" title="Xcode" src="https://raw.githubusercontent.com/thainquet/thainquet/main/ide/xcode.png"></code>
+<code><img height="35" title="Android Studio" src="https://raw.githubusercontent.com/thainquet/thainquet/main/ide/as.png"></code>
 
 ### Tools:
 
 <code><img height="35" title="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></code>
 <code><img height="35" title="Github" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></code>
 <code><img height="35" title="Terminal" src="https://raw.githubusercontent.com/thainquet/thainquet/main/tool/terminal.png"></code>
+<code><img height="35" title="Postman" src="https://raw.githubusercontent.com/thainquet/thainquet/main/tool/postman.png"></code>
 
 ### OS:
 

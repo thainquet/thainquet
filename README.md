@@ -3,11 +3,11 @@
 <hr/>
 - 👋 &nbsp Hi, I’m Thai<br/>
 - ☕️ &nbsp I’m coffeer.<br/>
-- 👀 &nbsp I’m interested in <code>react-native</code><code><img height="15" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/react.png"></code> and <code>MERN Stack</code>
+- 👀 &nbsp I’m interested in (<code>react-native</code><code><img height="15" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/react.png"></code>) and <code>MERN Stack</code>()
 <code><img height="15" title="MongoDB" src="https://raw.githubusercontent.com/thainquet/thainquet/main/mongodb.png"></code>
 <code><img height="15" title="ExpressJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/express.png"></code>
 <code><img height="15" title="ReactJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/react.png"></code>
-<code><img height="15" title="NodeJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/nodejs.png"></code><br/>
+<code><img height="15" title="NodeJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/nodejs.png"></code>)<br/>
 - 📫 &nbsp How to reach me : thainq00@gmail.com<br/>
 
 ### Connect with me:

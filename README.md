@@ -20,13 +20,13 @@
 
 ### IDE
 
-<code><code><img height="35" title="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
-<img height="35" title="Xcode" src="https://raw.githubusercontent.com/thainquet/thainquet/main/xcode.png"></code>
+<code><img height="35" title="Visual Studio Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
+<code><img height="35" title="Xcode" src="https://raw.githubusercontent.com/thainquet/thainquet/main/xcode.png"></code>
 
 ### Tools
 
-<img height="35" title="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></code>
-<img height="35" title="Github" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></code>
+<code><img height="35" title="Git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"></code>
+<code><img height="35" title="Github" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"></code>
 
 ### OS
 

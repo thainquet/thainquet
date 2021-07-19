@@ -30,16 +30,16 @@
 
 ### Database:
 
-<code><img height="15" title="MongoDB" src="https://raw.githubusercontent.com/thainquet/thainquet/main/db/mongodb.png"></code>
-<code><img height="15" title="Mysql" src="https://raw.githubusercontent.com/thainquet/thainquet/main/db/mysql.png"></code>
+<code><img height="35" title="MongoDB" src="https://raw.githubusercontent.com/thainquet/thainquet/main/db/mongodb.png"></code>
+<code><img height="35" title="Mysql" src="https://raw.githubusercontent.com/thainquet/thainquet/main/db/mysql.png"></code>
 
 ### Others:
 
-<code><img height="15" title="AWS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/aws.png"></code>
-<code><img height="15" title="Firebase" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/firebase.png"></code>
-<code><img height="15" title="Redux" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/redux.png"></code>
-<code><img height="15" title="Expo" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/expo.png"></code>
-<code><img height="15" title="React Navigation" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/reactnavigation.png"></code>
+<code><img height="35" title="AWS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/aws.png"></code>
+<code><img height="35" title="Firebase" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/firebase.png"></code>
+<code><img height="35" title="Redux" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/redux.png"></code>
+<code><img height="35" title="Expo" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/expo.png"></code>
+<code><img height="35" title="React Navigation" src="https://raw.githubusercontent.com/thainquet/thainquet/main/other/reactnavigation.png"></code>
 
 ### IDE:
 

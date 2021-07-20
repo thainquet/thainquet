@@ -12,10 +12,9 @@
 ### Connect with me:
 
 <code>[<img height="35" alt="thainq00@gmail.com | Gmail" width="28px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg">][gmail]</code>
-<code><img height="35" title="Whatsapp" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/whatsapp.png"></code>
-<code><img height="35" title="Skype" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/skype.png"></code>
-<code><img height="35" title="Slack" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/slack.png"></code>
-<code><img height="35" title="Telegram" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/telegram.png"></code>
+<code>[<img height="35" title="Whatsapp" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/whatsapp.png">][whatsapp]</code>
+<code>[<img height="35" title="Skype" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/skype.png">][skype]</code>
+<code>[<img height="35" title="Telegram" src="https://raw.githubusercontent.com/thainquet/thainquet/main/contact/telegram.png">][telegram]</code>
 <br/>
 
 ### Languages, Frameworks, Libraries:
@@ -69,3 +68,6 @@
 <hr/>
 
 [gmail]: mailto:thainq00@gmail.com
+[telegram]: https://telegram.me/sherry_00
+[whatsapp]: https://api.whatsapp.com/send?phone=+84357717794
+[skype]: skype:live:thainq00_1?chat

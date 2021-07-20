@@ -70,4 +70,4 @@
 [gmail]: mailto:thainq00@gmail.com
 [telegram]: https://telegram.me/sherry_00
 [whatsapp]: https://api.whatsapp.com/send?phone=+84357717794
-[skype]: skype:live:thainq00_1?chat
+[skype]: https://join.skype.com/invite/YdMomWNchwTt

@@ -60,11 +60,13 @@
 
 <br/>
 
-<a href="https://github.com/thainquet" align="left">
+<a href="https://github.com/thainquet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainquet&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/thainquet" align="right">
+<br/>
+
+<a href="https://github.com/thainquet">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thainquet&show_icons=true&theme=radical" />
 </a>
 

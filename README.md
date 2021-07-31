@@ -7,7 +7,6 @@
 <code><img height="15" title="ExpressJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/express.png"></code>
 <code><img height="15" title="ReactJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/react.png"></code>
 <code><img height="15" title="NodeJS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/nodejs.png"></code>)<br/>
-- 📫 &nbsp How to reach me : thainq00@gmail.com<br/>
 
 ### Connect with me:
 
@@ -61,12 +60,12 @@
 
 <br/>
 
-<a href="https://github.com/thainquet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainquet&layout=compact&theme=radicalt" />
+<a href="https://github.com/thainquet" align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainquet&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/thainquet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thainquet&show_icons=true&theme=radicalt" />
+<a href="https://github.com/thainquet" align="right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thainquet&show_icons=true&theme=radical" />
 </a>
 
 <p align="right">

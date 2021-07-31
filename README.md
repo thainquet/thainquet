@@ -62,8 +62,18 @@
 <br/>
 
 <a href="https://github.com/thainquet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainquet&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainquet&layout=compact&theme=radicalt" />
 </a>
+
+<a href="https://github.com/thainquet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thainquet&show_icons=true&theme=radicalt" />
+</a>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=thainquet&style=plastic&label=Views"><img>
+  <img src="https://badges.pufler.dev/visits/thainquet/thainquet?color=black&logo=github" />
+</p>
+
 
 <hr/>
 

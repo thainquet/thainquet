@@ -61,13 +61,13 @@
 <br/>
 
 <a href="https://github.com/thainquet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainquet&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainquet&layout=compact&theme=radical&count_private=true" />
 </a>
 
 <br/>
 
 <a href="https://github.com/thainquet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thainquet&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thainquet&show_icons=true&theme=radical&count_private=true" />
 </a>
 
 <p align="right">

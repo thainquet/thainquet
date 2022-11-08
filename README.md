@@ -72,7 +72,7 @@
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=thainquet&style=plastic&label=Views"><img>
-  <img src="https://badges.pufler.dev/visits/thainquet/thainquet?color=black&logo=github" />
+<!--   <img src="https://badges.pufler.dev/visits/thainquet/thainquet?color=black&logo=github" /> -->
 </p>
 
 

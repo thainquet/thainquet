@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Thai Nguyen
+### Hi there 👋
 
 <hr/>
 - ☕️ &nbsp I’m coffeer.<br/>

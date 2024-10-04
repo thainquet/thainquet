@@ -18,7 +18,7 @@
 
 ### Languages, Frameworks, Libraries:
 
-<code><img height="35" title="Javascript" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"></code>
+<code><img height="35" title="Javascript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/javascript.png"></code>
 <code><img height="35" title="TypeScript" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/typescript.png"></code>
 <code><img height="35" title="ReactJs/React Native" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/react.png"></code>
 <code><img height="35" title="NodeJs" src="https://raw.githubusercontent.com/thainquet/thainquet/main/language/nodejs.png"></code>
@@ -54,9 +54,9 @@
 
 ### OS:
 
-<code><img height="35" title="Mac OS" src="https://camo.githubusercontent.com/73bd7cb04728a3ba23bd6aa6740f7c8b585df12db44f4492ec46fc8e30b2115f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61636f732e737667"></code>
-<code><img height="35" title="Window" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"></code>
-<code><img height="35" title="Ubuntu" src="https://camo.githubusercontent.com/c100a44b540f6bcea3f7bae169d5f75b44e8994a83deeaf2e9b7e7f9523c8bd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7562756e74752e737667"></code>
+<code><img height="35" title="Mac OS" src="https://raw.githubusercontent.com/thainquet/thainquet/main/os/macos.png"></code>
+<code><img height="35" title="Window" src="https://raw.githubusercontent.com/thainquet/thainquet/main/os/windows.png"></code>
+<code><img height="35" title="Ubuntu" src="https://raw.githubusercontent.com/thainquet/thainquet/main/os/ubuntu.png"></code>
 
 <br/>
 
